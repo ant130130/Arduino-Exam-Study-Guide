@@ -12,7 +12,7 @@ Bytes, definition
 Circuit Schematic notations for battery, ground, current, switch, resistor, LEDs
 Color changing (RGB) LEDs 
 Commenting
-Constants
+Constants (INPUT, INPUT_PULLUP, OUTPUT, HIGH, LOW)
 Declarations
 Digital vs. Analog pins
 If / else functions
@@ -28,5 +28,12 @@ Sketch, part of, including punctuation
 Switches
 Troubleshooting strategies
 Variables (Integers, Strings, Floats, Long)
+
+Serial.print and Serial.println
+Serial.begin
+digitalWrite
+delay
+analogWrite
+
 
 
